@@ -27,8 +27,3 @@ This smart application integrates weather API data to recommend suitable activit
 
 ## 🔗 Live Demo
 https://lakshyasaraswat07.github.io/Project--Smart_Weather_Planner/
-
----
-
-## 👨‍💻 Author
-Lakshya Saraswat
